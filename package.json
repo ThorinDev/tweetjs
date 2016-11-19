@@ -1,0 +1,89 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "tweetjs",
+        "scope": null,
+        "escapedName": "tweetjs",
+        "name": "tweetjs",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/christophernethercott"
+    ]
+  ],
+  "_from": "tweetjs@latest",
+  "_id": "tweetjs@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/tweetjs",
+  "_nodeVersion": "4.4.4",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/tweetjs-1.0.0.tgz_1469285229298_0.06960892747156322"
+  },
+  "_npmUser": {
+    "name": "thorin",
+    "email": "c.nethercott@icloud.com"
+  },
+  "_npmVersion": "2.15.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "tweetjs",
+    "scope": null,
+    "escapedName": "tweetjs",
+    "name": "tweetjs",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/tweetjs/-/tweetjs-1.0.0.tgz",
+  "_shasum": "2638f15df3435eb0bb0b7951ea98d4e83a2d67a8",
+  "_shrinkwrap": null,
+  "_spec": "tweetjs",
+  "_where": "/Users/christophernethercott",
+  "author": {
+    "name": "thorin"
+  },
+  "bugs": {
+    "url": "https://github.com/ThorinDev/tweetjs/issues"
+  },
+  "dependencies": {},
+  "description": "A javascript library to tweet things easily!",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "2638f15df3435eb0bb0b7951ea98d4e83a2d67a8",
+    "tarball": "https://registry.npmjs.org/tweetjs/-/tweetjs-1.0.0.tgz"
+  },
+  "gitHead": "e589a67d2e419f454e98adfe82fa07e9ce96f565",
+  "homepage": "https://github.com/ThorinDev/tweetjs#readme",
+  "keywords": [
+    "Tweet",
+    "Twitter",
+    "JavaScript"
+  ],
+  "license": "ISC",
+  "main": "src/tweetjs.js",
+  "maintainers": [
+    {
+      "name": "thorin",
+      "email": "c.nethercott@icloud.com"
+    }
+  ],
+  "name": "tweetjs",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThorinDev/tweetjs.git"
+  },
+  "scripts": {
+    "test": "echo \"Testing!\""
+  },
+  "version": "1.0.0"
+}
